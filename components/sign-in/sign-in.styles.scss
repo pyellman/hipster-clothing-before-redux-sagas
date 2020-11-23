@@ -1,0 +1,18 @@
+.sign-in {
+  width: 440px;
+  display: flex;
+  // border: 1px solid black;
+  flex-direction: column;
+  border: 1px solid blue;
+
+}
+
+// close the margin up a little
+.title {
+  margin: 10px 0;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
